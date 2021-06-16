@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e379"],{d52d:function(e,a,d){"use strict";d.r(a);var t=d("7a23");const n=Object(t["y"])("data-v-4fb74b10"),c=n((e,a,d,n,c,b)=>(Object(t["o"])(),Object(t["d"])("div",null," Galería ")));var b={setup(){return{}}};b.render=c,b.__scopeId="data-v-4fb74b10";a["default"]=b}}]);
+//# sourceMappingURL=chunk-2d21e379.3c27b38a.js.map

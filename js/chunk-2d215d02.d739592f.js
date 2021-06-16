@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d215d02"],{c098:function(a,t,c){"use strict";c.r(t);var e=c("7a23");const d=Object(e["y"])("data-v-7fbfa65b"),n=d((a,t,c,d,n,o)=>(Object(e["o"])(),Object(e["d"])("div",null," Formulario de contacto ")));var o={setup(){return{}}};o.render=n,o.__scopeId="data-v-7fbfa65b";t["default"]=o}}]);
+//# sourceMappingURL=chunk-2d215d02.d739592f.js.map
